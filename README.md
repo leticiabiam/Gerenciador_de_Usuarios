@@ -70,4 +70,4 @@ Mas como solicitado também é possível reimplementar o backend em **Java (Spri
 ## Observação final 
 Mesmo não conseguindo finalizar o backend, busquei estruturar um **frontend funcional, limpo e bem organizado**.
 
-Obrigada **EXITI Soluções** pela oportunidade! Ficarei à disposição para **explicar o raciocínio técnico** e as decisões tomadas durante o desenvolvimento do desafio
+Obrigada **Exiti Soluções** pela oportunidade! Ficarei à disposição para **explicar o raciocínio técnico** e as decisões tomadas durante o desenvolvimento do desafio
