@@ -31,4 +31,4 @@ Para demonstrar integração front ↔ back e facilitar testes locais, incluí u
 ## Observação final 
 Mesmo não conseguindo finalizar o backend, busquei estruturar um frontend funcional, limpo e bem organizado. <br/>
 
-  Obrigada **EXITI Soluções** pela oportunidade, ficarei à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento do desafio.
+Obrigada **EXITI Soluções** pela oportunidade, ficarei à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento do desafio.
