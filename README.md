@@ -13,12 +13,33 @@ Durante o desenvolvimento do desafio, foquei principalmente na construção do f
 - Busca e paginação
 - Tema claro/escuro (texto branco no modo escuro)
 
-## Como rodar
-```bash
-npm install
-npm run dev
-```
-Abra no navegador: http://localhost:5173
+## 🧩 Como rodar o projeto
+
+### 🛠️ Pré-requisitos
+- Ter o **Visual Studio Code** (ou outro editor de sua preferência) instalado.  
+- Ter o **Node.js** (versão X.X.X ou superior) instalado no sistema.
+
+---
+
+### 🚀 Passos para executar
+
+1. **Baixe ou clone este repositório:**  
+   ```bash
+   git clone [link-do-repositório]
+
+2. **Abra o projeto no Visual Studio Code.**
+
+3. **No terminal, instale as dependências:**  
+   ```bash
+   npm install
+4. **Inicie o projeto:**
+    ```bash
+    npm run dev
+5. **Acesse o projeto no navegador:**
+Acesse o projeto no navegador:
+Geralmente disponível em: http://localhost:5173
+
+Dica: Caso o comando npm não funcione, verifique se o Node.js está instalado corretamente em seu computador.
 
 ## Endpoints planejados para integração
 O frontend foi desenvolvido em React + Vite e está preparado para integrar com os seguintes endpoints:
