@@ -3,7 +3,7 @@
 Este projeto implementa o frontend do desafio técnico, utilizando **React** e **Vite**.
 
 ## Motivo da escolha do Frotend 
-Durante o desenvolvimento do desafio, foquei principalmente na construção do frontend da aplicação, utilizando React com Vite, por familaridade. Já que são ferramentas que começei a utlizar no meu meio acadêmico. <br/> Como não tenho familiaridade prática com Java, incluí apenas o frontend conforme pedido.
+Durante o desenvolvimento do desafio, foquei principalmente na construção do frontend da aplicação, utilizando React com Vite, por familaridade. Já que são ferramentas que começei a utlizar no meu meio acadêmico. <br/> Como ainda não poussuio essa mesma familiaridade prática com Java, incluí apenas o frontend conforme pedido.
 
 ## Funcionalidades
 - Listagem de usuários (mock via `localStorage`)
