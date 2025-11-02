@@ -47,4 +47,4 @@ Para alcançar isso, pretendo estudar **Java e Spring Boot** por meio de cursos 
 **Observação final**<br/>
 Mesmo não conseguindo finalizar o backend, busquei estruturar um frontend funcional, limpo e bem organizado, para demonstrar integração front ↔ back e facilitar testes locais, incluí um backend opcional em Node.js/Express (pasta backend-demo/) que implementa as mesmas rotas e o mesmo formato JSON que o enunciado espera. Ele serve apenas como mock / prova de conceito, mas também pode receber implemetações futuras como o Java + Spring.<br/>
 
-Agradeço à **EXITI Soluções** pela oportunidade e fico à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento.
+agradeço à **EXITI Soluções** pela oportunidade e fico à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento.
