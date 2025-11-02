@@ -23,8 +23,10 @@ Abra no navegador: http://localhost:5173
 ## Dificudades encontradas 
 A principal dificuldade foi no **backend com Java + Spring** por ser uma tecnologia nova para mim.
 Apesar de ter conseguido configurar o banco no PostgreeSQL, ainda não consegui: <br/>
+
 •Criar as rotas de API para receber od=s dados do frontend; <br/>
 •Fazer a integração completa com o banco de dados. <br/>
+
 Para demonstrar integração front ↔ back e facilitar testes locais, incluí um backend opcional em Node.js/Express (pasta backend-demo/) que implementa as mesmas rotas e o mesmo formato JSON que o enunciado espera. Ele serve apenas como mock / prova de conceito. Mas como solicitado também é possivel reimplementar o backend em Java (Spring Boot, etc.)
 
 ## Observação final 
