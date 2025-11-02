@@ -2,8 +2,10 @@
 
 Este projeto implementa o frontend do desafio técnico, utilizando **React** e **Vite**.
 
-## Motivo da escolha do Frotend 
-Durante o desenvolvimento do desafio, foquei principalmente na construção do frontend da aplicação, utilizando React com Vite, por familaridade. Já que são ferramentas que começei a utlizar no meu meio acadêmico. <br/> Como ainda não poussuio essa mesma familiaridade prática com Java, incluí apenas o frontend conforme pedido.
+## Motivo da escolha do Frontend
+Durante o desenvolvimento do desafio, foquei principalmente na construção do **frontend** da aplicação, utilizando **React com Vite**, por familiaridade. Já que só ferramentas que comecei a utilizar no meu meio acadêmico.
+
+Como ainda não possuo experiência prática com **Java**, inclui apenas o frontend conforme pedido.
 
 ## Funcionalidades
 - Listagem de usuários (mock via `localStorage`)
@@ -51,15 +53,21 @@ O frontend foi desenvolvido em React + Vite e está preparado para integrar com 
 
 Esses endpoints podem ser implementados em um backend Java (conforme o desafio original) ou como fiz nesse projeto pelo Node.js.
 
-## Dificudades encontradas 
-A principal dificuldade foi no **backend com Java + Spring** por ser uma tecnologia nova para mim.
-Apesar de ter conseguido configurar o banco no PostgreeSQL, ainda não consegui: <br/>
+## Dificuldades encontradas
 
-•Criar as rotas de API para receber os dados do frontend; <br/>
-•Fazer a integração completa com o banco de dados. <br/>
+A principal dificuldade foi no backend com **Java + Spring**, por ser uma tecnologia nova para mim. Apesar de ter conseguido configurar o banco no **PostgreSQL**, ainda não consegui:
 
-Para demonstrar integração front ↔ back e facilitar testes locais, incluí um backend opcional em Node.js/Express (pasta backend-demo/) que implementa as mesmas rotas e o mesmo formato JSON que o enunciado espera. Ele serve apenas como mock / prova de conceito. Mas como solicitado também é possivel reimplementar o backend em Java (Spring Boot, etc.)
+- Criar as rotas de API para receber os dados do frontend;
+- Fazer a integração completa com o banco de dados.
+
+Para demonstrar integração front → back e facilitar testes locais, incluí um backend opcional em **Node.js/Express** (pasta `backend-demo`) que:
+
+- Implementa as mesmas rotas e o mesmo formato JSON que o enunciado espera;
+- Serve apenas como mock/prova de conceito.
+
+Mas como solicitado também é possível reimplementar o backend em **Java (Spring Boot, etc.)**.
 
 ## Observação final 
-Mesmo não conseguindo finalizar o backend, busquei estruturar um frontend funcional, limpo e bem organizado. <br/>
-Obrigada **EXITI Soluções** pela oportunidade, ficarei à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento do desafio.
+Mesmo não conseguindo finalizar o backend, busquei estruturar um **frontend funcional, limpo e bem organizado**.
+
+Agradeço à **EXITI Soluções** pela oportunidade! Ficarei à disposição para **explicar o raciocínio técnico** e as decisões tomadas durante o desenvolvimento do desafio.
