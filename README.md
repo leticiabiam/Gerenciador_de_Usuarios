@@ -1,6 +1,6 @@
 #Desafio Técnico - EXITI Soluções
 
-##O que foi desenvolvido
+##O que foi desenvolvido<br/>
 Durante o desenvolvimento do desafio, foquei principalmente na construção do **frontend** da aplicação, utilizando **React** com **Vite**.
 Também iniciei a configuração do **backend** com **Java** **+** **Spring** e **PostgreSQL**,porém, por ainda não ter experiência com Java, consegui apenas configurar parcialmente o banco.
 
