@@ -6,7 +6,7 @@ Também iniciei a configuração do **backend** com **Java** **+** **Spring** e 
 
 **Frontend**<br/>
 •Desenvolvido com **React** e **Vite**.<br/>
-•Criação de uma interface simples para:<br/>
+Criação de uma interface simples para:<br/>
  •Abrir a página principal;<br/>
  •Inserir dados em um formulário;<br/>
  •(O plano era que esses dados fossem enviados para uma tabela ligada ao Excel ou
