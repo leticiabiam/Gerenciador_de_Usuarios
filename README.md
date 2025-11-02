@@ -8,10 +8,8 @@ Também iniciei a configuração do **backend** com **Java** **+** **Spring** e 
 •Desenvolvido com **React** e **Vite**.<br/>
 Criação de uma interface simples para:<br/>
  •Abrir a página principal;<br/>
- •Inserir dados em um formulário;<br/>
- •(O plano era que esses dados fossem enviados para uma tabela ligada ao Excel ou
-banco de dados).<br/>
-•Estrutura de componentes organizada e pronta para integração com o backend.
+ •Inserir dados em um formulário;<br/>(Nesse caso nviados para uma tabela ligada ao Excel).<br/>
+•Estrutura de componentes organizada e pronta para integração futura com o backend.
 
 **Backend (em progresso)**<br/>
 •Banco de dados **PostgreSQL** configurado e funcionando localmente<br/>
