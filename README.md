@@ -3,7 +3,7 @@
 Este projeto implementa o frontend do desafio técnico, utilizando **React** e **Vite**.
 
 ## Motivo da escolha do Frontend
-Durante o desenvolvimento do desafio, foquei principalmente na construção do **frontend** da aplicação, utilizando **React com Vite**, por familiaridade. Já que só ferramentas que comecei a utilizar no meu meio acadêmico.
+Durante o desenvolvimento do desafio, foquei principalmente na construção do **frontend** da aplicação, utilizando **React com Vite**, por familiaridade. Já que comecei a utilizar no meu meio acadêmico.
 
 Como ainda não possuo experiência prática com **Java**, inclui apenas o frontend conforme pedido.
 
