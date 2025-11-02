@@ -34,6 +34,7 @@ Esses endpoints podem ser implementados em um backend Java (conforme o desafio o
 ## Dificudades encontradas 
 A principal dificuldade foi no **backend com Java + Spring** por ser uma tecnologia nova para mim.
 Apesar de ter conseguido configurar o banco no PostgreeSQL, ainda não consegui: <br/>
+
 •Criar as rotas de API para receber os dados do frontend; <br/>
 •Fazer a integração completa com o banco de dados. <br/>
 
@@ -41,5 +42,4 @@ Para demonstrar integração front ↔ back e facilitar testes locais, incluí u
 
 ## Observação final 
 Mesmo não conseguindo finalizar o backend, busquei estruturar um frontend funcional, limpo e bem organizado. <br/>
-
 Obrigada **EXITI Soluções** pela oportunidade, ficarei à disposição para explicar o raciocínio técnico e as decisões tomadas durante o desenvolvimento do desafio.
