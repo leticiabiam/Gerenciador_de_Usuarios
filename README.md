@@ -3,14 +3,16 @@
 **O que foi desenvolvido**<br/>
 
 Durante o desenvolvimento do desafio, foquei principalmente na construção do **frontend** da aplicação, utilizando **React** com **Vite**.
-Também iniciei a configuração do **backend** com **Java** **+** **Spring** e **PostgreSQL**,porém, por ainda não ter experiência com Java, consegui apenas configurar parcialmente o banco.
+Também iniciei a configuração do **backend** com **Java** **+** **Spring** e **PostgreSQL**,porém, por ainda não ter experiência com Java, consegui apenas configurar parcialmente o banco (PostgreSQL - CREATE DATABASE e CREATE TABELAS) .
 
 **Frontend**<br/>
 •Desenvolvido com **React** e **Vite**.<br/>
 Criação de uma interface simples para:<br/>
  •Abrir a página principal;<br/>
- •Inserir dados em um formulário;<br/>(Nesse caso nviados para uma tabela ligada ao Excel).<br/>
-•Estrutura de componentes organizada e pronta para integração futura com o backend.
+ •Criar e alterar usúarios;<br/> 
+ •Inserir e excluir dados em um formulário;(Nesse caso enviados para uma tabela ligada ao Excel).<br/>
+ •Importação de documentos Excel<br/> 
+Estrutura de componentes organizada e pronta para integração futura com o backend.
 
 **Backend (em progresso)**<br/>
 •Banco de dados **PostgreSQL** configurado e funcionando localmente<br/>
