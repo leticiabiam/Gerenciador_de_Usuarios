@@ -18,7 +18,7 @@ Durante o desenvolvimento do desafio, foquei principalmente na construção do f
 Abaixo estão algumas telas do frontend:
 
 ### Tela Principal
-![Este sistema permite gerenciar usuários de forma simples e intuitiva.](C:\Users\letic\OneDrive\Imagens\Screenshots\Captura de tela 2025-11-02 040205.png")
+![Este sistema permite gerenciar usuários de forma simples e intuitiva.](/Desktop\tela-principal.png")
 
 ### Tela de Cadastro de Usuário
 ![Tela de Cadastro](./prints/cadastro.png)
