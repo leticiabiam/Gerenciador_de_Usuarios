@@ -13,20 +13,6 @@ Durante o desenvolvimento do desafio, foquei principalmente na construção do f
 - Busca e paginação
 - Tema claro/escuro (texto branco no modo escuro)
 
-## Interface do Projeto
-
-Abaixo estão algumas telas do frontend:
-
-### Tela Principal
-![Este sistema permite gerenciar usuários de forma simples e intuitiva.](/Desktop\tela-principal.png")
-
-### Tela de Cadastro de Usuário
-![Tela de Cadastro](./prints/cadastro.png)
-
-### Dashboard
-![Dashboard](./prints/dashboard.png)
-
-
 ## Como rodar
 ```bash
 npm install
