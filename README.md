@@ -20,6 +20,17 @@ npm run dev
 ```
 Abra no navegador: http://localhost:5173
 
+## Endpoints planejados para integração
+O frontend foi desenvolvido em React + Vite e está preparado para integrar com os seguintes endpoints:
+
+- `GET /users` — lista todos os usuários  
+- `POST /users` — cria um novo usuário  
+- `PUT /users/{id}` — atualiza um usuário  
+- `DELETE /users/{id}` — remove um usuário  
+- `POST /import` — importa usuários a partir de um arquivo Excel (.xlsx)
+
+Esses endpoints podem ser implementados em um backend Java (conforme o desafio original) ou como fiz nesse projeto pelo Node.js.
+
 ## Dificudades encontradas 
 A principal dificuldade foi no **backend com Java + Spring** por ser uma tecnologia nova para mim.
 Apesar de ter conseguido configurar o banco no PostgreeSQL, ainda não consegui: <br/>
