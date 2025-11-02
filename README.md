@@ -13,15 +13,15 @@ Durante o desenvolvimento do desafio, foquei principalmente na construção do f
 - Busca e paginação
 - Tema claro/escuro (texto branco no modo escuro)
 
-## 🧩 Como rodar o projeto
+## Como rodar o projeto
 
-### 🛠️ Pré-requisitos
+### Pré-requisitos
 - Ter o **Visual Studio Code** (ou outro editor de sua preferência) instalado.  
-- Ter o **Node.js** (versão X.X.X ou superior) instalado no sistema.
+- Ter o **Node.js** (versão 18.0 ou 20.0 LTS) instalado no sistema.
 
 ---
 
-### 🚀 Passos para executar
+### Passos para executar
 
 1. **Baixe ou clone este repositório:**  
    ```bash
@@ -36,7 +36,6 @@ Durante o desenvolvimento do desafio, foquei principalmente na construção do f
     ```bash
     npm run dev
 5. **Acesse o projeto no navegador:**
-Acesse o projeto no navegador:
 Geralmente disponível em: http://localhost:5173
 
 Dica: Caso o comando npm não funcione, verifique se o Node.js está instalado corretamente em seu computador.
